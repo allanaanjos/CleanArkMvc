@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CuXkAXN6d/s7JJXREZpx3dnijZ2erbfCYHEQZ9En4tYVMzY0S4lLYgQXSQ8wYgmD8L9B9WdX/SWPe6IryUM3EQ==",
+  "dgSpecHash": "W7ZeOzvaq9RYa8WCQekD3OXKHdOtnLYgsIYtSd68ThJ0i2h9JDI/sQqZVF/aaMRqt4VKEE10VN9bWNi1SGuUgQ==",
   "success": true,
-  "projectFilePath": "c:\\temp\\CleanArkMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "C:\\temp\\CleanArkMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luayn\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\luayn\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\CleanArchMvc.Domain.Teste.csproj": {}
+    "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\CleanArchMvc.Domain.Teste.csproj": {}
   },
   "projects": {
-    "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\CleanArchMvc.Domain.Teste.csproj": {
+    "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\CleanArchMvc.Domain.Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\CleanArchMvc.Domain.Teste.csproj",
+        "projectUniqueName": "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\CleanArchMvc.Domain.Teste.csproj",
         "projectName": "CleanArchMvc.Domain.Teste",
-        "projectPath": "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\CleanArchMvc.Domain.Teste.csproj",
+        "projectPath": "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\CleanArchMvc.Domain.Teste.csproj",
         "packagesPath": "C:\\Users\\luayn\\.nuget\\packages\\",
-        "outputPath": "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\obj\\",
+        "outputPath": "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain.Teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luayn\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectPath": "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "packagesPath": "C:\\Users\\luayn\\.nuget\\packages\\",
-        "outputPath": "c:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\obj\\",
+        "outputPath": "C:\\temp\\CleanArkMvc\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luayn\\AppData\\Roaming\\NuGet\\NuGet.Config"
